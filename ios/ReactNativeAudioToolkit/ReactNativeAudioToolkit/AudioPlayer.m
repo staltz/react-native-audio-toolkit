@@ -10,12 +10,12 @@
 
 #import "AudioPlayer.h"
 #import "Helpers.h"
-#import "RCTEventDispatcher.h"
-#import "RCTUtils.h"
 #import "ReactPlayer.h"
 #import "ReactPlayerItem.h"
 #import <AVFoundation/AVPlayer.h>
 #import <AVFoundation/AVPlayerItem.h>
+#import <React/RCTEventDispatcher.h>
+#import <React/RCTUtils.h>
 
 
 @interface AudioPlayer ()

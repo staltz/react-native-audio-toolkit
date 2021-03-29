@@ -9,9 +9,8 @@
 //  Licensed under the MIT license. For more information, see LICENSE.
 
 #import "AudioRecorder.h"
-#import "RCTEventDispatcher.h"
-//#import "RCTEventEmitter"
 #import "Helpers.h"
+#import <React/RCTEventDispatcher.h>
 
 @import AVFoundation;
 
