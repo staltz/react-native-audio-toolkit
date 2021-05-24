@@ -19,6 +19,9 @@
   "bugs": {
     "url": "https://github.com/react-native-community/react-native-audio-toolkit/issues"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "async": "^2.6.3",
     "eventemitter3": "^1.2.0",
